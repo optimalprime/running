@@ -13,7 +13,7 @@ Demonstration as an instrument:
 
 http://youtu.be/mD471b-K2LY
 
-(copyright) Andy Duncan
+(copyright) 2014 Andy Duncan
 
 Thank you to the original authors this was based on.  Forked / derived from GPL / public domain code:
 
