@@ -3,7 +3,7 @@ running
 
 Wiring code for an Arduino Uno that generates musical tones and lights in response to sensor-detected impacts.
 
-There is a Fritzing file that shows the simple circuit that goes with the code. A demonstration of how to mount the sensors for the intended purpose (i.e. adding sound to bounce juggling) will likely be added as well. 
+There is a Fritzing file that shows the simple circuit that goes with the code. A demonstration of how to mount the sensors for the intended purpose (i.e. adding sound and light to bounce juggling) will likely be added as well. 
 
 Demonstration as a sequencer:
 
@@ -12,6 +12,10 @@ http://youtu.be/FyPyS_S0BtQ
 Demonstration as an instrument:
 
 http://youtu.be/mD471b-K2LY
+
+Demonstration as an instrument coded to a major key:
+
+http://youtu.be/P0yDZg1TGWc
 
 (copyright) 2014 Andy Duncan
 
